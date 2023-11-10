@@ -11,7 +11,7 @@ export default function Home() {
           <h1 className="hover:scale-150 transition-all duration-500 text-[4rem] mobile:text-[3rem]">
             Jakdow Wanathong
           </h1>
-          <h1 className="text-[3rem] mobile:text-[2rem]">Song 2</h1>
+          <h1 className="text-[3rem] mobile:text-[2rem]">Song</h1>
         </div>
         <img
           className="w-96 transition-all duration-500 hover:scale-150"
